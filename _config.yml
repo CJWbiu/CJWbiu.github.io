@@ -6,7 +6,7 @@ email: chengjiewen520@gmail.com
 description: "Every failure is leading towards success."
 keyword: "Blog, 法克大叔叔的博客, chengjiewen, 程杰文, web"
 url: "http://cjwbiu.github.io"          # your host, for absolute URL
-baseurl: "/Blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/CJWbiu/cjwbiu.github.io.git" # you code repository
 
 # Sidebar settings
