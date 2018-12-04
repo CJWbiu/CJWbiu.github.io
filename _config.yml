@@ -4,7 +4,7 @@ SEOTitle: 法克大叔叔的博客 | CJWbiu's Blog
 header-img: img/post-bg-desk.jpg
 email: chengjiewen520@gmail.com
 description: "Every failure is leading towards success."
-keyword: "Blog, 法克大叔叔的博客, chengjiewen, 程杰文, web"
+keyword: "Javascript Blog, 法克大叔叔的博客, chengjiewen, 程杰文, web"
 url: "http://cjwbiu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/CJWbiu/cjwbiu.github.io.git" # you code repository
@@ -18,12 +18,9 @@ sidebar-avatar: /img/about-CJWbiu-avatar.png      # use absolute URL, seeing it'
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
 zhihu_username:     MrCheng
 github_username:    CJWbiu
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+cnblogs_username:   法克大叔叔
 
 
 
@@ -57,16 +54,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: CJWbiu
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: c9c555ae250c29ef30b5                            #生成的clientID
+  clientSecret: 6318f398809210e2b29bfd02a253adc5fec47cb5    #生成的clientSecret
+  repo: CJWbiu.github.io    #仓库名称
+  owner: CJWbiu    #github用户名
+  admin: CJWbiu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,7 +96,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: "",
         href: "http://zhengwuyang.com"
     },{
         title: "简书·BY",
