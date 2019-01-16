@@ -4,12 +4,11 @@ title:      Javascript跨域解决方案
 subtitle:   跨域资源请求及兼容
 date:       2018-12-04
 author:     CJWbiu
-header-img: img/post-2018-12-4-cors.jpg
+header-img: img/article/post-2018-12-4-cors.jpg
 catalog: true
 tags:
     - Javascript
     - CORS
-    - 跨域
 ---
 # 跨域
 > 跨域：当协议、主域名、子域名、端口号中任意一个不相同时都不算同一个域，而在不同域之间请求数据即为跨域请求。      
