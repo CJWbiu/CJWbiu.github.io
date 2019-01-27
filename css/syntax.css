@@ -40,6 +40,7 @@
 .highlight .gs { font-weight: bold; }
 .highlight .gu { color: #800080; font-weight: bold; }
 .highlight .gt { color: #aa0000; }
+.highlight .k { color: #c678dd; }
 .highlight .kc { font-weight: bold; }
 .highlight .kd { font-weight: bold; color: #c678dd;}
 .highlight .kn { font-weight: bold; }
@@ -49,7 +50,7 @@
 .highlight .m { color: #009999; }
 .highlight .s { color: #dd1144; }
 .highlight .n { color: #333333; }
-.highlight .na { color: teal; }
+.highlight .na { color: #d19a66; }
 .highlight .nb { color: #0086b3; }
 .highlight .nc { color: #445588; font-weight: bold; }
 .highlight .no { color: teal; }
@@ -59,6 +60,7 @@
 .highlight .nn { color: #555555; }
 .highlight .nt { color: navy; }
 .highlight .nv { color: teal; }
+.highlight .nx { color: #61aeee; }
 .highlight .ow { font-weight: bold; }
 .highlight .w { color: #bbbbbb; }
 .highlight .mf { color: #009999; }
